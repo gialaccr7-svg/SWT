@@ -1,0 +1,14 @@
+node_modules
+.git
+.output
+.vite
+.next
+.vinext
+*.tsbuildinfo
+*.zip
+.env
+.env.*
+npm-debug.log*
+
+/dist/
+/.nitro/

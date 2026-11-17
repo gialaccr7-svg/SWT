@@ -1,0 +1,10 @@
+node_modules
+dist
+.next
+.vinext
+.wrangler
+.netlify
+.nitro
+.output
+.vite
+lib/image-manifest.json

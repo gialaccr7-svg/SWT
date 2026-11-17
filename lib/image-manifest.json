@@ -1,0 +1,1243 @@
+{
+  "/images/bus.jpg": {
+    "width": 1500,
+    "height": 875,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/bus-480-7faaf1802fde.webp",
+        "bytes": 17764
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/bus-768-002d730c38d9.webp",
+        "bytes": 36502
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/bus-1200-574bc43f747e.webp",
+        "bytes": 71146
+      },
+      {
+        "width": 1500,
+        "src": "/images/optimized/bus-1500-b41a983de4ec.webp",
+        "bytes": 99482
+      }
+    ]
+  },
+  "/images/chi-phi-thue-xe-bao-gia.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/chi-phi-thue-xe-bao-gia-480-be20f671d9e1.webp",
+        "bytes": 17618
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/chi-phi-thue-xe-bao-gia-768-672795f0f4a9.webp",
+        "bytes": 32264
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/chi-phi-thue-xe-bao-gia-1200-9111eff61c53.webp",
+        "bytes": 58338
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/chi-phi-thue-xe-bao-gia-1600-9c1e2a9dee0a.webp",
+        "bytes": 90994
+      }
+    ]
+  },
+  "/images/chi-phi-thue-xe-cau-duong.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/chi-phi-thue-xe-cau-duong-480-5e779e955c62.webp",
+        "bytes": 12648
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/chi-phi-thue-xe-cau-duong-768-ada9e217cb13.webp",
+        "bytes": 31542
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/chi-phi-thue-xe-cau-duong-1200-04c87c6e0c96.webp",
+        "bytes": 73210
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/chi-phi-thue-xe-cau-duong-1600-b56c789fd985.webp",
+        "bytes": 125488
+      }
+    ]
+  },
+  "/images/chi-phi-thue-xe-doi-chieu.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/chi-phi-thue-xe-doi-chieu-480-8652c5d71a93.webp",
+        "bytes": 11582
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/chi-phi-thue-xe-doi-chieu-768-4ac2342f62aa.webp",
+        "bytes": 21272
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/chi-phi-thue-xe-doi-chieu-1200-73322c36436e.webp",
+        "bytes": 37220
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/chi-phi-thue-xe-doi-chieu-1600-4629b94259a3.webp",
+        "bytes": 52948
+      }
+    ]
+  },
+  "/images/dat-coc-thue-xe-kiem-tra.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/dat-coc-thue-xe-kiem-tra-480-71044074241f.webp",
+        "bytes": 11516
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/dat-coc-thue-xe-kiem-tra-768-a3056648b9eb.webp",
+        "bytes": 22532
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/dat-coc-thue-xe-kiem-tra-1200-86e1b8d9da51.webp",
+        "bytes": 41446
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/dat-coc-thue-xe-kiem-tra-1600-8e5affc374a3.webp",
+        "bytes": 63172
+      }
+    ]
+  },
+  "/images/dat-coc-thue-xe-thanh-toan.jpg": {
+    "width": 1600,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/dat-coc-thue-xe-thanh-toan-480-257d41cd3a5e.webp",
+        "bytes": 10908
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/dat-coc-thue-xe-thanh-toan-768-fe6aa0031e2a.webp",
+        "bytes": 19400
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/dat-coc-thue-xe-thanh-toan-1200-667ffb9d97ba.webp",
+        "bytes": 34944
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/dat-coc-thue-xe-thanh-toan-1600-20adf0aadeea.webp",
+        "bytes": 50438
+      }
+    ]
+  },
+  "/images/dat-coc-thue-xe-xac-nhan.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/dat-coc-thue-xe-xac-nhan-480-43c3b72cabff.webp",
+        "bytes": 13526
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/dat-coc-thue-xe-xac-nhan-768-fc47d1507eac.webp",
+        "bytes": 26092
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/dat-coc-thue-xe-xac-nhan-1200-6b6768bcc663.webp",
+        "bytes": 47466
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/dat-coc-thue-xe-xac-nhan-1600-00be03a2a5ed.webp",
+        "bytes": 69480
+      }
+    ]
+  },
+  "/images/ford-transit-1.jpg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/ford-transit-1-480-0cb47376141c.webp",
+        "bytes": 24322
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/ford-transit-1-768-20e2feb64928.webp",
+        "bytes": 50074
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/ford-transit-1-1200-db0d7257ed17.webp",
+        "bytes": 95752
+      },
+      {
+        "width": 1280,
+        "src": "/images/optimized/ford-transit-1-1280-2dba3a359c2f.webp",
+        "bytes": 104928
+      }
+    ]
+  },
+  "/images/ford-transit-2.jpg": {
+    "width": 720,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/ford-transit-2-480-83b799e88c06.webp",
+        "bytes": 111896
+      },
+      {
+        "width": 720,
+        "src": "/images/optimized/ford-transit-2-720-401c6922c9a7.webp",
+        "bytes": 267108
+      }
+    ]
+  },
+  "/images/ford-transit-3.jpg": {
+    "width": 720,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/ford-transit-3-480-2691f32ec351.webp",
+        "bytes": 90360
+      },
+      {
+        "width": 720,
+        "src": "/images/optimized/ford-transit-3-720-d1deb4ace38c.webp",
+        "bytes": 203556
+      }
+    ]
+  },
+  "/images/ford-transit-4.jpg": {
+    "width": 720,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/ford-transit-4-480-4021b19afa4a.webp",
+        "bytes": 29528
+      },
+      {
+        "width": 720,
+        "src": "/images/optimized/ford-transit-4-720-64daf534f512.webp",
+        "bytes": 64274
+      }
+    ]
+  },
+  "/images/ford-transit-5.jpg": {
+    "width": 720,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/ford-transit-5-480-107a41127521.webp",
+        "bytes": 33008
+      },
+      {
+        "width": 720,
+        "src": "/images/optimized/ford-transit-5-720-7c832614203b.webp",
+        "bytes": 72976
+      }
+    ]
+  },
+  "/images/hero.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/hero-480-c5e1ba15abf5.webp",
+        "bytes": 24130
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/hero-768-22aca6fb3e84.webp",
+        "bytes": 49712
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/hero-1200-c1044e4b7634.webp",
+        "bytes": 97136
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/hero-1276-2f0a7c20f6fe.webp",
+        "bytes": 108222
+      }
+    ]
+  },
+  "/images/kia-carnival-1.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-1-480-c5e1ba15abf5.webp",
+        "bytes": 24130
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-1-768-22aca6fb3e84.webp",
+        "bytes": 49712
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/kia-carnival-1-1200-c1044e4b7634.webp",
+        "bytes": 97136
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/kia-carnival-1-1276-2f0a7c20f6fe.webp",
+        "bytes": 108222
+      }
+    ]
+  },
+  "/images/kia-carnival-2.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-2-480-12b1370a13d1.webp",
+        "bytes": 18966
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-2-768-04faaac3d307.webp",
+        "bytes": 40710
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/kia-carnival-2-1200-d8df5e388f4c.webp",
+        "bytes": 82354
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/kia-carnival-2-1276-d4bdd60b6793.webp",
+        "bytes": 92150
+      }
+    ]
+  },
+  "/images/kia-carnival-3.jpg": {
+    "width": 960,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-3-480-a46bcd7a9cac.webp",
+        "bytes": 43890
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-3-768-d604bb2903e1.webp",
+        "bytes": 92314
+      },
+      {
+        "width": 960,
+        "src": "/images/optimized/kia-carnival-3-960-92ed086c527a.webp",
+        "bytes": 125812
+      }
+    ]
+  },
+  "/images/kia-carnival-4.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-4-480-2b72ff07a017.webp",
+        "bytes": 22774
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-4-768-cdb6a89402f9.webp",
+        "bytes": 45422
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/kia-carnival-4-1200-54bb1abd608f.webp",
+        "bytes": 88218
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/kia-carnival-4-1276-65b761437a78.webp",
+        "bytes": 98564
+      }
+    ]
+  },
+  "/images/kia-carnival-5.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-5-480-441cbf392719.webp",
+        "bytes": 40374
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-5-768-4f10b2e78207.webp",
+        "bytes": 96230
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/kia-carnival-5-1200-02912116c366.webp",
+        "bytes": 212880
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/kia-carnival-5-1276-a723bc0a9fbf.webp",
+        "bytes": 242666
+      }
+    ]
+  },
+  "/images/kia-carnival-6.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/kia-carnival-6-480-577c09ebdfa7.webp",
+        "bytes": 18042
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/kia-carnival-6-768-64475ce9513e.webp",
+        "bytes": 35518
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/kia-carnival-6-1200-74870b83da89.webp",
+        "bytes": 65382
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/kia-carnival-6-1276-10fe0eb2df71.webp",
+        "bytes": 72548
+      }
+    ]
+  },
+  "/images/mercedes.jpg": {
+    "width": 696,
+    "height": 392,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/mercedes-480-863d3663ab20.webp",
+        "bytes": 9538
+      },
+      {
+        "width": 696,
+        "src": "/images/optimized/mercedes-696-30d2d807ecfe.webp",
+        "bytes": 17808
+      }
+    ]
+  },
+  "/images/mpv.jpg": {
+    "width": 1000,
+    "height": 518,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/mpv-480-276442cdbbea.webp",
+        "bytes": 32842
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/mpv-768-ed18fbf8fe6d.webp",
+        "bytes": 77732
+      },
+      {
+        "width": 1000,
+        "src": "/images/optimized/mpv-1000-456ba3f7238d.webp",
+        "bytes": 132830
+      }
+    ]
+  },
+  "/images/need.jpg": {
+    "width": 1276,
+    "height": 956,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/need-480-b04b1672f36a.webp",
+        "bytes": 24264
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/need-768-98fd06b713b6.webp",
+        "bytes": 49416
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/need-1200-a5aee97fe140.webp",
+        "bytes": 94784
+      },
+      {
+        "width": 1276,
+        "src": "/images/optimized/need-1276-1bfa3a672706.webp",
+        "bytes": 104804
+      }
+    ]
+  },
+  "/images/sedan.jpg": {
+    "width": 1000,
+    "height": 518,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/sedan-480-28762bceb01f.webp",
+        "bytes": 13852
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/sedan-768-c97146a64b56.webp",
+        "bytes": 30870
+      },
+      {
+        "width": 1000,
+        "src": "/images/optimized/sedan-1000-1d37f08eac85.webp",
+        "bytes": 47528
+      }
+    ]
+  },
+  "/images/seo-can-tho-16-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-16-1-480-84fde3d51f5e.webp",
+        "bytes": 17970
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-16-1-768-f845a6bae0ab.webp",
+        "bytes": 42674
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-16-1-1200-b50e866df9ad.webp",
+        "bytes": 95884
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-16-1-1920-a55facdf5b84.webp",
+        "bytes": 226334
+      }
+    ]
+  },
+  "/images/seo-can-tho-16-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-16-2-480-4b7bfea58c68.webp",
+        "bytes": 13528
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-16-2-768-ac544187fe8c.webp",
+        "bytes": 29432
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-16-2-1200-705c6b7396ea.webp",
+        "bytes": 62618
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-16-2-1920-ba169683b073.webp",
+        "bytes": 137586
+      }
+    ]
+  },
+  "/images/seo-can-tho-29-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-29-1-480-93fabf75677f.webp",
+        "bytes": 16974
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-29-1-768-6f4ed9374a57.webp",
+        "bytes": 40764
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-29-1-1200-80862f1e43e3.webp",
+        "bytes": 91778
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-29-1-1920-6b225b52d347.webp",
+        "bytes": 213084
+      }
+    ]
+  },
+  "/images/seo-can-tho-29-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-29-2-480-ab76c0696320.webp",
+        "bytes": 23996
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-29-2-768-e3632f1418be.webp",
+        "bytes": 53180
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-29-2-1200-caa137dc430d.webp",
+        "bytes": 110236
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-29-2-1920-234bc5dc298c.webp",
+        "bytes": 227692
+      }
+    ]
+  },
+  "/images/seo-can-tho-45-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-45-1-480-7ee6eba8f8f6.webp",
+        "bytes": 31350
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-45-1-768-96080ce190c1.webp",
+        "bytes": 71232
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-45-1-1200-177ba0a9023b.webp",
+        "bytes": 148074
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-45-1-1920-7592fedb5011.webp",
+        "bytes": 307282
+      }
+    ]
+  },
+  "/images/seo-can-tho-45-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-45-2-480-f9006c585411.webp",
+        "bytes": 28394
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-45-2-768-052634d6e156.webp",
+        "bytes": 70546
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-45-2-1200-c4a82737aaa9.webp",
+        "bytes": 157608
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-45-2-1920-a138b8cf42af.webp",
+        "bytes": 348544
+      }
+    ]
+  },
+  "/images/seo-can-tho-7-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-7-1-480-a023f42b89ee.webp",
+        "bytes": 12550
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-7-1-768-98e9a1e992ce.webp",
+        "bytes": 30254
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-7-1-1200-2475be27a781.webp",
+        "bytes": 68514
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-7-1-1920-511fdcdddae0.webp",
+        "bytes": 155566
+      }
+    ]
+  },
+  "/images/seo-can-tho-7-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-can-tho-7-2-480-d6fb42f0f2bd.webp",
+        "bytes": 18376
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-can-tho-7-2-768-bdfd88afd731.webp",
+        "bytes": 43984
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-can-tho-7-2-1200-11466224d872.webp",
+        "bytes": 98576
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-can-tho-7-2-1920-cb7759ca284f.webp",
+        "bytes": 230436
+      }
+    ]
+  },
+  "/images/seo-nha-trang-16-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-16-1-480-eafe5c995fdd.webp",
+        "bytes": 26818
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-16-1-768-a567d827164d.webp",
+        "bytes": 69064
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-16-1-1200-69ad34ce5f1e.webp",
+        "bytes": 175364
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-16-1-1920-9096adc145da.webp",
+        "bytes": 467062
+      }
+    ]
+  },
+  "/images/seo-nha-trang-16-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-16-2-480-3a24d2fd8948.webp",
+        "bytes": 18474
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-16-2-768-0675727fe6aa.webp",
+        "bytes": 48276
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-16-2-1200-40c229be7d41.webp",
+        "bytes": 135670
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-16-2-1920-eb94ccc8408d.webp",
+        "bytes": 382242
+      }
+    ]
+  },
+  "/images/seo-nha-trang-29-1.jpg": {
+    "width": 1920,
+    "height": 1440,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-29-1-480-d0fb604df980.webp",
+        "bytes": 29952
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-29-1-768-618692faa473.webp",
+        "bytes": 68204
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-29-1-1200-40629151e10f.webp",
+        "bytes": 149864
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-29-1-1920-00e3833a1adc.webp",
+        "bytes": 335618
+      }
+    ]
+  },
+  "/images/seo-nha-trang-29-2.jpg": {
+    "width": 1920,
+    "height": 1440,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-29-2-480-d75840b5dc29.webp",
+        "bytes": 27690
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-29-2-768-5f319001312b.webp",
+        "bytes": 60808
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-29-2-1200-560fcf7a72e3.webp",
+        "bytes": 132798
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-29-2-1920-1b09600f8a95.webp",
+        "bytes": 292158
+      }
+    ]
+  },
+  "/images/seo-nha-trang-45-1.jpg": {
+    "width": 2272,
+    "height": 1704,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-45-1-480-05e6cd704693.webp",
+        "bytes": 10800
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-45-1-768-1f031c7102db.webp",
+        "bytes": 25628
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-45-1-1200-e97f90352428.webp",
+        "bytes": 56584
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-45-1-1920-23630f1fdbd4.webp",
+        "bytes": 124236
+      },
+      {
+        "width": 2272,
+        "src": "/images/optimized/seo-nha-trang-45-1-2272-d07903de9693.webp",
+        "bytes": 162438
+      }
+    ]
+  },
+  "/images/seo-nha-trang-7-1.jpg": {
+    "width": 1920,
+    "height": 1066,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-7-1-480-037539bcc30e.webp",
+        "bytes": 39376
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-7-1-768-8e7156004923.webp",
+        "bytes": 96578
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-7-1-1200-45bd60f4494c.webp",
+        "bytes": 230732
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-7-1-1920-f8698cc26ac5.webp",
+        "bytes": 569092
+      }
+    ]
+  },
+  "/images/seo-nha-trang-7-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-nha-trang-7-2-480-2aba97c1a841.webp",
+        "bytes": 35342
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-nha-trang-7-2-768-fb4474aaf41a.webp",
+        "bytes": 89248
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-nha-trang-7-2-1200-65d428138ab9.webp",
+        "bytes": 219890
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-nha-trang-7-2-1920-97d940a8744b.webp",
+        "bytes": 574958
+      }
+    ]
+  },
+  "/images/seo-vung-tau-16-1.jpg": {
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-vung-tau-16-1-480-4b4808d6e0c9.webp",
+        "bytes": 21794
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-vung-tau-16-1-768-2dea7e29a546.webp",
+        "bytes": 41386
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-vung-tau-16-1-1200-fcad3ba1b0af.webp",
+        "bytes": 76172
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-vung-tau-16-1-1920-4e115338b617.webp",
+        "bytes": 148328
+      }
+    ]
+  },
+  "/images/seo-vung-tau-16-2.jpg": {
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-vung-tau-16-2-480-e853f19921ac.webp",
+        "bytes": 93650
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-vung-tau-16-2-768-142d83d653bd.webp",
+        "bytes": 237092
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-vung-tau-16-2-1200-514b36660e89.webp",
+        "bytes": 546776
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-vung-tau-16-2-1920-98466640205d.webp",
+        "bytes": 1184682
+      }
+    ]
+  },
+  "/images/seo-vung-tau-29-1.jpg": {
+    "width": 1920,
+    "height": 614,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-vung-tau-29-1-480-377759d582b1.webp",
+        "bytes": 13642
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-vung-tau-29-1-768-bc494cfa8090.webp",
+        "bytes": 33952
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-vung-tau-29-1-1200-ce9f15254666.webp",
+        "bytes": 80700
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-vung-tau-29-1-1920-cbb635db8b2a.webp",
+        "bytes": 206998
+      }
+    ]
+  },
+  "/images/seo-vung-tau-7-1.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-vung-tau-7-1-480-8e70af35a29b.webp",
+        "bytes": 14420
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-vung-tau-7-1-768-879cd8092dbd.webp",
+        "bytes": 38616
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-vung-tau-7-1-1200-0cf2f7832f70.webp",
+        "bytes": 99852
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-vung-tau-7-1-1920-db905fb7f3b3.webp",
+        "bytes": 249024
+      }
+    ]
+  },
+  "/images/seo-vung-tau-7-2.jpg": {
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/seo-vung-tau-7-2-480-d6844733c311.webp",
+        "bytes": 15912
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/seo-vung-tau-7-2-768-d255d3e170f9.webp",
+        "bytes": 35854
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/seo-vung-tau-7-2-1200-b3c452d74c83.webp",
+        "bytes": 74500
+      },
+      {
+        "width": 1920,
+        "src": "/images/optimized/seo-vung-tau-7-2-1920-39efd7170adc.webp",
+        "bytes": 153224
+      }
+    ]
+  },
+  "/images/suv.jpg": {
+    "width": 1000,
+    "height": 425,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/suv-480-f1bb889d7a1b.webp",
+        "bytes": 16790
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/suv-768-cb3e142b7ab8.webp",
+        "bytes": 32456
+      },
+      {
+        "width": 1000,
+        "src": "/images/optimized/suv-1000-77623c5012f7.webp",
+        "bytes": 48748
+      }
+    ]
+  },
+  "/images/universe.jpg": {
+    "width": 1200,
+    "height": 630,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/universe-480-85580c7cd53d.webp",
+        "bytes": 18922
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/universe-768-cf2feddda613.webp",
+        "bytes": 38988
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/universe-1200-7924a2335cdc.webp",
+        "bytes": 72562
+      }
+    ]
+  },
+  "/images/van.jpg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/van-480-0cb47376141c.webp",
+        "bytes": 24322
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/van-768-20e2feb64928.webp",
+        "bytes": 50074
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/van-1200-db0d7257ed17.webp",
+        "bytes": 95752
+      },
+      {
+        "width": 1280,
+        "src": "/images/optimized/van-1280-2dba3a359c2f.webp",
+        "bytes": 104928
+      }
+    ]
+  },
+  "/images/vung-tau-bien-nui-nho.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/vung-tau-bien-nui-nho-480-ba77d27552c8.webp",
+        "bytes": 22642
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/vung-tau-bien-nui-nho-768-0d4075d76a0f.webp",
+        "bytes": 47642
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/vung-tau-bien-nui-nho-1200-f90bd34d8ab6.webp",
+        "bytes": 98512
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/vung-tau-bien-nui-nho-1600-d9550d62c462.webp",
+        "bytes": 156604
+      }
+    ]
+  },
+  "/images/vung-tau-doi-ven-bien.jpg": {
+    "width": 1600,
+    "height": 1082,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/vung-tau-doi-ven-bien-480-1e5fce420c7b.webp",
+        "bytes": 9208
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/vung-tau-doi-ven-bien-768-254eac34ee3c.webp",
+        "bytes": 30494
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/vung-tau-doi-ven-bien-1200-7245ce32a720.webp",
+        "bytes": 105488
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/vung-tau-doi-ven-bien-1600-f5987dfddd58.webp",
+        "bytes": 214526
+      }
+    ]
+  },
+  "/images/vung-tau-thanh-pho-ve-chieu.jpg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/vung-tau-thanh-pho-ve-chieu-480-236dd96179d0.webp",
+        "bytes": 42636
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/vung-tau-thanh-pho-ve-chieu-768-2c8b88df1bec.webp",
+        "bytes": 109122
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/vung-tau-thanh-pho-ve-chieu-1200-58406891495c.webp",
+        "bytes": 250380
+      },
+      {
+        "width": 1600,
+        "src": "/images/optimized/vung-tau-thanh-pho-ve-chieu-1600-9ca3806753ba.webp",
+        "bytes": 405224
+      }
+    ]
+  },
+  "/images/wedding.jpg": {
+    "width": 696,
+    "height": 392,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/wedding-480-863d3663ab20.webp",
+        "bytes": 9538
+      },
+      {
+        "width": 696,
+        "src": "/images/optimized/wedding-696-30d2d807ecfe.webp",
+        "bytes": 17808
+      }
+    ]
+  },
+  "/images/xecuoi.jpg": {
+    "width": 1200,
+    "height": 800,
+    "variants": [
+      {
+        "width": 480,
+        "src": "/images/optimized/xecuoi-480-1ab43e54237b.webp",
+        "bytes": 34048
+      },
+      {
+        "width": 768,
+        "src": "/images/optimized/xecuoi-768-7b408bb75e9d.webp",
+        "bytes": 65070
+      },
+      {
+        "width": 1200,
+        "src": "/images/optimized/xecuoi-1200-0b832c864763.webp",
+        "bytes": 117656
+      }
+    ]
+  }
+}
